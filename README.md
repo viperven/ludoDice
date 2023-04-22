@@ -1,2 +1,2 @@
 # ludoDice
-it is a simple dice generator which generate random numbers on  dice it is basically made of html 5 and css 3 and javaScript  you can download this code and simply run in your machine just refresh to generate random dice ,feel free  to commit changes
+It is a straightforward dice generator that rolls dice and produces random numbers. It is primarily composed of HTML 5, CSS 3, and JavaScript. You may download this code and run it on your computer by just refreshing. Feel free to make changes.
